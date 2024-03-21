@@ -1,0 +1,156 @@
+/* .box1:hover{
+    background-color: 
+    cursor:pointer;
+} */
+
+
+/* .box2{
+    background-color: pink;
+    z-index: 999;
+    width: 10rem;
+    height: 10rem;
+    position:relative;
+    bottom:7rem;
+    left:3rem;
+} */
+
+/* .box1{
+    width: 10rem;
+    height:10rem;
+    background-color: green;
+    background-color: green;
+    z-index: -999;
+} 
+
+.box2{
+    opacity: 70%;
+
+    background-color: pink;
+    z-index: 999;
+
+    width: 10rem;
+    height: 10rem;
+
+    position:relative;
+    bottom:7rem;
+    left:3rem;
+} */
+
+
+/* .text{
+    overflow: visible;
+
+    border: 1px solid black;
+    width: 15rem;
+    height:3rem;
+} */
+
+/* .text{
+    overflow: hidden;
+
+    border: 1px solid black;
+    width: 15rem;
+    height:3rem;
+} */
+
+/* .text{
+    overflow: scroll;
+
+    border: 1px solid black;
+    width: 15rem;
+    height:3rem;
+} */
+
+/* .box1{
+    width: 10rem;
+    height:10rem;
+    background-color: green;
+}
+
+.box2{
+    width: 10rem;
+    height:10rem;
+    background-color: pink;
+}
+
+.box3{
+    width: 10rem;
+    height:10rem;
+    background-color: red;
+} */
+
+
+ /* .box{
+    width: 10rem;
+    height: 3rem;
+    background-color: black;
+
+    animation-name: jjh;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    /* 설정 안하면 1번, infinite는 무한번 반복되게 됩니다.}*/
+/*
+
+
+@keyframes jjh{
+    0%{
+        position:relative;
+            top:1rem;
+            left: 1rem;
+    }
+    100%{
+        position: relative;
+        top: 3rem;
+        left: 3rem;
+    }
+} */
+
+/* .box1:hover{
+    transform: rotate(-45deg);
+} */
+
+/* .box1:hover{
+    transform: translate(5rem,5%);
+} */
+
+/* .box{
+    display: flex;
+    justify-content: space-between;
+} */
+
+/* .box{
+    display: flex;
+    justify-content: space-around;
+} */
+
+/* .box{
+    display: flex;
+    justify-content: end;
+} */
+
+/* .box{
+    display: flex;
+    justify-content: center;
+} */
+
+/* .box{
+    display: flex;
+    justify-content: start;
+} */
+
+/* .box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+/* .box{
+   display: flex;
+   flex-direction: row;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+ } */
