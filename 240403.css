@@ -1,0 +1,40 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#saveButton {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#saveButton:hover {
+    background-color: black ;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 20px;
+}
+
+.likeButton {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.likeButton:hover {
+    background-color:rgb(35, 59, 0);
+    cursor: pointer;  
+}
